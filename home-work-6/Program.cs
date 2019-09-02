@@ -11,10 +11,6 @@ namespace home_work_6
                 massiv[i] = i + 1;
                 Console.WriteLine(massiv[i]);
             }
-            //for (int i = 0; i < massiv._size; i++)
-            //{
-                
-            //}
             Console.ReadKey();
         }
     }
